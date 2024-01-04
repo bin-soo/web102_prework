@@ -24,8 +24,8 @@ The following **optional** features are implemented:
 Here's a Video Walkthrough of implemented features:
 
 
-
-<img src='https://imgur.com/a/JF2rcJA' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/KTyitpM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <blockquote class="imgur-embed-pub" lang="en" data-id="KTyitpM"><a href="https://imgur.com/KTyitpM">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with *Kap*  
