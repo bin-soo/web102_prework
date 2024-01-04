@@ -25,7 +25,7 @@ Here's a Video Walkthrough of implemented features:
 
 
 
-<img src='https://drive.google.com/file/d/1bwF9hTZZlICB1HbpOHNv3JCLP_W01hah/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/JF2rcJA' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with *Kap*  
